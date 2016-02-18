@@ -3,3 +3,7 @@
 1. Merge via github
 
   a. with multiple commits
+
+2. Merge from the command line
+
+  b. with --rebase
