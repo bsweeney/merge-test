@@ -9,3 +9,6 @@
   b. with --rebase
 
 3. Merge from the command line
+
+  c. by adding remote with --rebase
+  
