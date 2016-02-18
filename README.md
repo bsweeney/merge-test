@@ -15,3 +15,5 @@
 4. Merge from the command line
 
   d. using hub am
+
+5. the last
