@@ -13,3 +13,5 @@
   c. by adding remote with --rebase
   
 4. Merge from the command line
+
+  d. using hub am
