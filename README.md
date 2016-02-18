@@ -16,5 +16,6 @@
 
   d. using hub am
 
-5. the last
+5. Previous again
 
+6. Let's pick some cherries
